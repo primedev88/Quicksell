@@ -2,7 +2,7 @@
   "name": "quicksell",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://primedev88.github.io/primedev88.github.io",
+  "homepage": "https://primedev88.github.io/Quicksell",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
